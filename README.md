@@ -1,7 +1,4 @@
-# Laravel React Boilerplate
-## Download
-```git clone https://github.com/maheshkareeya/lara-react.git```
-```cd lara-react```
+
 ## Install NPM Dependencies 
 ```npm install```
 ## Install Composer Dependencies 
